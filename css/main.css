@@ -47,6 +47,8 @@ body {
     height: 446px;
     transform: translateY(-311px) translateX(538px);
     border-radius: 8px;
+    opacity: 0.7511;
+    background-color: #AB5CDB;
 }
 
 .card__title {
